@@ -1,0 +1,10 @@
+$backgroundcolor: rgb(220, 248, 220);
+$position: center;
+.App {
+    text-align: center;
+}
+
+.container {
+    text-align: $position;
+    background: $backgroundcolor;
+}
